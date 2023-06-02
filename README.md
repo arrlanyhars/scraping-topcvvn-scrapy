@@ -1,7 +1,7 @@
-# Scrapy Project (TopCV.vn)
+# Scrapy Project - TopCV.vn
 
 <h2>Objective</h2>
-In this project, I will scrape data using scrapy python on [here](https://www.topcv.vn/tim-viec-lam-cong-nghe-cao-c10009).
+In this project, I will scrape data using scrapy python on https://www.topcv.vn/tim-viec-lam-cong-nghe-cao-c10009.
 
 <h2>Script</h2>
 
